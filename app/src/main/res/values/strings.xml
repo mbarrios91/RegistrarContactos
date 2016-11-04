@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Registrar Contactos</string>
+    <string name="form_username">Nombre completo</string>
+    <string name="form_phone">Telefono</string>
+    <string name="form_email">Email</string>
+    <string name="form_desc_contacto">Descripciòn Contacto</string>
+    <string name="fecha_nacimiento">Fecha de Nacimiento</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="confirmar">Confirmar Datos</string>
+    <string name="confirmar_fecha">Fecha Nacimiento:</string>
+    <string name="confirmar_telefono">Tel.:</string>
+    <string name="confirmar_email">Email:</string>
+    <string name="confirmar_descrip">Descripción:</string>
+    <string name="btn_editar">Editar Datos</string>
+</resources>
